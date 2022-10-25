@@ -1,4 +1,4 @@
-The source code is too small, you can copy it in your project.
+The source code is too small, you can copy it into your project.
 
 ```typescript
 const value = pipe(1, (x: number) => x + 2)
